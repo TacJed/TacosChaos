@@ -1,0 +1,3 @@
+displayName = Taco's Chaos
+author = TacoJed
+version = 0.2
